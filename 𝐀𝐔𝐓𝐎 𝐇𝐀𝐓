@@ -1,0 +1,9 @@
+invoke-static {p0}, Landroid/support/annotation/B;->mod(Landroid/content/Context;)V
+
+
+Hey , plz paste the above Code below onCreate..
+
+After that you need to add Font for Your Title and Icon  in Assets folder named as "Modder_Hub_Tiltle" and "Modder_Hub_Icon" respectively..
+Plz don't try to change this name to any other name.. otherwise your app will crash after adding changing the font name. Remember This⚠️⚠️
+
+Don't forgot to add This assets on your app..Okay
